@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Architecture, Peking University, 2020
 * Ph.D in Mobile Computing & System Software, Peking University, 2025 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
