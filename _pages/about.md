@@ -10,13 +10,17 @@ redirect_from:
 Hello,I am Daliang Xu. I am a third-year Ph.D. student in [Peking University](https://www.pku.edu.cn/) of China, co-advised by Prof. Gang Huang, [Prof. Xuanzhe Liu](http://www.liuxuanzhe.com/) and [Prof. Mengwei Xu](https://xumengwei.github.io/). My research interest is in mobile computing and system software.
 
 ## Selected Publications (* = equal contributions)
-* Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading[Mobicom'2022]
-
-  __Daliang Xu\*__, Mengwei Xu*, Qipeng Wang, Shangguang Wang, Kang Huang, Gang Huang, Xin Jin, Xuanzhe Liu
-
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
 
   __Daliang Xu\*__, Mengwei Xu*, Chiheng Lou, Li Zhang, Gang Huang, Xin Jin, Xuanzhe Liu
+
+* Niagara: Scheduling DNN Inference Services onHeterogeneous Edge Processors[ICSOC'2023] (__Distinguished Paper Award__)
+
+  __Daliang Xu__, Qing Li, Mengwei Xu, Kang Huang, Gang Huang, Shangguang Wang, Xin Jin, Ma Yun, Xuanzhe Liu
+
+* Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading[Mobicom'2022]
+
+  __Daliang Xu\*__, Mengwei Xu*, Qipeng Wang, Shangguang Wang, Kang Huang, Gang Huang, Xin Jin, Xuanzhe Liu
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
