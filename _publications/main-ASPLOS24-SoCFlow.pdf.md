@@ -1,7 +1,7 @@
 ---
 title: "SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers"
 collection: publications
-permalink: files/main-SoCFlow-ASPLOS2024
+permalink: files/main-SoCFlow-ASPLOS2024.pdf
 excerpt: 'The first system that enables distributed training on mobile-SoC-Clustered edge servers.'
 date: 2024-04-27
 venue: ASPLOS&apos;2024'
