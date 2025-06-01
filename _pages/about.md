@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to Daliang Xu's website !!!"
+title: "Daliang Xu （徐大亮）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
