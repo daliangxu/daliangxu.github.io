@@ -20,7 +20,7 @@ I always look for highly self-motivated undergraduates and graduates. If you are
 </span>
 
 <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 14pt;">
-Notice: Please refer to the [tips] (https://daliangxu.github.io/recruiting/) below before sending your email. 
+Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) before sending your email. 
 </span>
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
