@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello,I am Daliang Xu. I am a third-year Ph.D. student in [Peking University](https://www.pku.edu.cn/) of China, co-advised by Prof. Gang Huang, [Prof. Xuanzhe Liu](http://www.liuxuanzhe.com/) and [Prof. Mengwei Xu](https://xumengwei.github.io/). My research interest is in mobile computing and system software.
+I am an incoming Assistant Professor (Associate Researcher) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), and I will soon work with Prof. Shangguang Wang and [Prof. Mengwei Xu](https://xumengwei.github.io/).
+
+I received my Ph.D. from Peking University (PKU) in July 2024, where I was fortunate to be advised by Prof. Gang Huang, [Prof. Xuanzhe Liu](http://www.liuxuanzhe.com/), and [Prof. Mengwei Xu](https://xumengwei.github.io/).
+
+My research interests are in mobile computing and system software.
 
 ## Selected Publications (* = equal contributions)
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
