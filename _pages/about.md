@@ -13,9 +13,13 @@ I received my Ph.D. from Peking University (PKU) in June 2025, where I was fortu
 My research interests are in mobile computing and system software.
 </span>
 
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
+
 <span style="font-family: 'Times New Roman', Times, serif; color: red; font-weight: bold; font-size: 14pt;">
 I always look for highly self-motivated undergraduates and graduates. If you are interested in my research, please feel free to send your CV to contact me at xxx@163.com.
 </span>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
 ## Selected Publications (* = equal contributions)
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
