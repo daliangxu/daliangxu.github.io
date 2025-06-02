@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-family: 'Times New Roman', Times, serif; font-size: 11pt;">
+<span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
 I am an incoming Assistant Professor (Associate Researcher) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), and I will soon work with Prof. Shangguang Wang and [Prof. Mengwei Xu](https://xumengwei.github.io/).
 I received my Ph.D. from Peking University (PKU) in June 2025, where I was fortunate to be advised by Prof. Gang Huang, [Prof. Xuanzhe Liu](http://www.liuxuanzhe.com/), and [Prof. Mengwei Xu](https://xumengwei.github.io/).
 My research interests are in mobile computing and system software.
+</span>
+
+<span style="font-family: 'SimHei', 'Heiti SC', '黑体', Arial, sans-serif; font-size: 14pt; color: red; font-weight: bold;">
+I always look for highly self-motivated undergraduates and graduates. If you are interested in my research, please feel free to send your CV to contact me at xxx@163.com.
 </span>
 
 ## Selected Publications (* = equal contributions)
