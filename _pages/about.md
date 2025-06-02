@@ -25,6 +25,9 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
+## Research
+
+
 ## Selected Publications (* = equal contributions)
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
 
