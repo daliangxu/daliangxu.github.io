@@ -26,6 +26,13 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
 ## Research
+<span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+My research focuses on enabling intelligent capabilities on resource-constrained edge devices (e.g., smartphones, drones, satellites) through hardware-software co-design.  In particular, I am interested in how to leverage heterogeneous computing resources (e.g., NPUs) on devices and how to develop new hardware to accelerate the inference of multimodal LLMs at the devices.
+
+- **Efficient heterogeneous processor software stack for on-device multimodal LLMs** - Edge devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize these resources. To address this, we are designing a new software stack optimized for heterogeneous computing resources to maximize their utilization.
+
+- **New hardware architecture for multimodal LLM inference on satellites or smartphones** - The hardware architecture of existing edge devices often lags behind the rapid development of algorithms, making it difficult to support efficient inference for multimodal LLMs. We are working on designing, simulating, and implementing novel accelerators to enable reliable and high-performance multimodal LLM inference at the edge
+</span>
 
 
 ## Selected Publications (* = equal contributions)
