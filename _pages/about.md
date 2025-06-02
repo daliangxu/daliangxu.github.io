@@ -19,6 +19,10 @@ My research interests are in mobile computing and system software.
 I always look for highly self-motivated undergraduates and graduates. If you are interested in my research, please feel free to send your CV to contact me at xxx@163.com.
 </span>
 
+<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 14pt;">
+Notice: Please refer to the [tips] (https://daliangxu.github.io/recruiting/) below before sending your email. 
+</span>
+
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
 ## Selected Publications (* = equal contributions)
