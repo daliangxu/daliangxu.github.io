@@ -80,28 +80,30 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 ## Selected Publications (* = equal contributions)
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
 
-• <b><span style="color: #c00;">[CCF-A]</span></b> Fast On-device LLM Inference with NPUs <b>[ASPLOS'2025]</b><br>
+<div style="margin-bottom: 14px;">
+• <b><span style="color: #c00;">[CCF-A]</span></b> <b>[ASPLOS'2025]</b> Fast On-device LLM Inference with NPUs <br>
 <b>Daliang Xu</b>, Hao Zhang, Liming Yang, Ruiqi Liu, Gang Huang, Mengwei Xu, Xuanzhe Li
+</div>
 
-<br/>
-
-• <b><span style="color: #c00;">[CCF-A]</span></b> SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers <b>[ASPLOS'2024]</b><br>
+<div style="margin-bottom: 14px;">
+• <b><span style="color: #c00;">[CCF-A]</span></b> <b>[ASPLOS'2024]</b> SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers <br>
 <b>Daliang Xu*</b>, Mengwei Xu*, Chiheng Lou, Li Zhang, Gang Huang, Xin Jin, Xuanzhe Liu
+</div>
 
-<br/>
-
-• <b><span style="color: #c00;">[CCF-A]</span></b> EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding <b>[TMC'2024]</b><br>
+<div style="margin-bottom: 14px;">
+• <b><span style="color: #c00;">[CCF-A]</span></b> <b>[TMC'2024]</b> EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding <br>
 <b>Daliang Xu</b>, Wangsong Yin, Hao Zhang, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu, Xuanzhe Liu
+</div>
 
-<br/>
-
-• <b>👑 <span style="color: #c00;">[CCF-B Distinguished Award]</span></b> Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors <b>[ICSOC'2023]</b> (__Distinguished Paper Award__)<br>
+<div style="margin-bottom: 14px;">
+• <b>👑 <span style="color: #c00;">[CCF-B Distinguished Award]</span></b> <b>[ICSOC'2023]</b> Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors  <br>
 <b>Daliang Xu</b>, Qing Li, Mengwei Xu, Kang Huang, Gang Huang, Shangguang Wang, Xin Jin, Ma Yun, Xuanzhe Liu
+</div>
 
-<br/>
-
-• <b><span style="color: #c00;">[CCF-A]</span></b> Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading <b>[Mobicom'2022]</b><br>
+<div style="margin-bottom: 14px;">
+• <b><span style="color: #c00;">[CCF-A]</span></b> <b>[Mobicom'2022]</b> Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading <br>
 <b>Daliang Xu*</b>, Mengwei Xu*, Qipeng Wang, Shangguang Wang, Kang Huang, Gang Huang, Xin Jin, Xuanzhe Liu
+</div>
 
 </div>
 
