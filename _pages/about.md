@@ -36,9 +36,6 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Heterogeneous computing systems (e.g., NPU) for on-device multimodal LLMs.</span>
   <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing a new algorithm-system software stack optimized for heterogeneous computing resources to maximize their utilization. 
-  </span>
-
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;">
   Current research area includes NPU-optimized on-device multimodal LLM engine, NPU compiler, and etc.
   </span>
   
