@@ -96,7 +96,7 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 </div>
 
 <div style="margin-bottom: 14px;">
-• <b>👑 <span style="color: #c00;">[CCF-B Distinguished Paper Award]</span></b> <b>[ICSOC'2023]</b> Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors  <br>
+• <b> 🏆 <span style="color: #c00;">[CCF-B Distinguished Paper Award]</span></b> <b>[ICSOC'2023]</b> Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors  <br>
 <b>Daliang Xu</b>, Qing Li, Mengwei Xu, Kang Huang, Gang Huang, Shangguang Wang, Xin Jin, Ma Yun, Xuanzhe Liu
 </div>
 
