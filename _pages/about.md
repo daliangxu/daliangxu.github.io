@@ -27,7 +27,7 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 
 ## Research
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
-My research focuses on empowering resource-constrained edge devices (e.g., satellites, drones, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
+My research focuses on empowering resource-constrained edge devices (e.g., satellites, UAVs, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
 </span>
 
 - <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Efficient on-device multimodal LLMs</span>
@@ -49,7 +49,7 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
   PieBridge [SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate [WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
   </span>
 
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in drones or satellites.</span>
+  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in UAVs or satellites.</span>
 
 - <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware for intelligent satellites or smartphones.</span>
   <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Next-generation intelligent satellites featuring high reliability, fault tolerance, and support for multimodal LLM inference.
@@ -78,25 +78,31 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 
 
 ## Selected Publications (* = equal contributions)
-* Fast On-device LLM Inference with NPUs [ASPLOS'2025]
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
 
-  __Daliang Xu__, Hao Zhang, Liming Yang, Ruiqi Liu, Gang Huang, Mengwei Xu, Xuanzhe Li
+<b><span style="color: #c00;">[CCF-A]</span></b> Fast On-device LLM Inference with NPUs <b>[ASPLOS'2025]</b>  
+__Daliang Xu__, Hao Zhang, Liming Yang, Ruiqi Liu, Gang Huang, Mengwei Xu, Xuanzhe Li
 
-* SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
+<br/>
 
-  __Daliang Xu\*__, Mengwei Xu*, Chiheng Lou, Li Zhang, Gang Huang, Xin Jin, Xuanzhe Liu
+<b><span style="color: #c00;">[CCF-A]</span></b> SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers <b>[ASPLOS'2024]</b>  
+__Daliang Xu*__, Mengwei Xu*, Chiheng Lou, Li Zhang, Gang Huang, Xin Jin, Xuanzhe Liu
 
-* EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding[TMC'2024]
+<br/>
 
-  __Daliang Xu__, Wangsong Yin, Hao Zhang, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu,Xuanzhe Liu
+<b><span style="color: #c00;">[CCF-A]</span></b> EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding <b>[TMC'2024]</b>  
+__Daliang Xu__, Wangsong Yin, Hao Zhang, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu, Xuanzhe Liu
 
-* Niagara: Scheduling DNN Inference Services onHeterogeneous Edge Processors[ICSOC'2023] (__Distinguished Paper Award__)
+<br/>
 
-  __Daliang Xu__, Qing Li, Mengwei Xu, Kang Huang, Gang Huang, Shangguang Wang, Xin Jin, Ma Yun, Xuanzhe Liu
+<b><span style="color: #c00;">[CCF-A]</span></b> Niagara: Scheduling DNN Inference Services on Heterogeneous Edge Processors <b>[ICSOC'2023]</b> (__Distinguished Paper Award__)  
+__Daliang Xu__, Qing Li, Mengwei Xu, Kang Huang, Gang Huang, Shangguang Wang, Xin Jin, Ma Yun, Xuanzhe Liu
 
-* Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading[Mobicom'2022]
+<br/>
 
-  __Daliang Xu\*__, Mengwei Xu*, Qipeng Wang, Shangguang Wang, Kang Huang, Gang Huang, Xin Jin, Xuanzhe Liu
+<b><span style="color: #c00;">[CCF-A]</span></b> Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading <b>[Mobicom'2022]</b>  
+__Daliang Xu*__, M*
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
