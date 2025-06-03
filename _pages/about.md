@@ -35,17 +35,21 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
   </span>
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Heterogeneous computing systems (e.g., NPU) for on-device multimodal LLMs.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing a new algorithm-system software stack optimized for heterogeneous computing resources to maximize their utilization. 
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing new system software stack optimized for heterogeneous computing resources to maximize their utilization. 
+  <br>
   <br>
   Our current research topics cover NPU-optimized on-device multimodal LLM engines, NPU compiler design, and other related areas.
   <br>
-  Papers: Mandheling [[MobiCom22](https://dl.acm.org/doi/10.1145/3495243.3560545)], Niagara [[ICSOC23 distinguished award](https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6)], SoCFlow [[ASPLOS24](https://dl.acm.org/doi/10.1145/3617232.3624847)], EdgeLLM [[TMC24](https://ieeexplore.ieee.org/abstract/document/10812936)], LLM.NPU() [[ASPLOS25](https://dl.acm.org/doi/10.1145/3669940.3707239)]
+  <br>
+  Papers: Mandheling [[MobiCom22](https://dl.acm.org/doi/10.1145/3495243.3560545)], Niagara [[ICSOC23 Distinguished Award](https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6)], SoCFlow [[ASPLOS24](https://dl.acm.org/doi/10.1145/3617232.3624847)], EdgeLLM [[TMC24](https://ieeexplore.ieee.org/abstract/document/10812936)], LLM.NPU() [[ASPLOS25](https://dl.acm.org/doi/10.1145/3669940.3707239)]
   </span>
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">NPU-friendly multimodal LLM algorithms</span>
   <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> 
   PieBridge[SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate[WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
   </span>
+
+  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in drones or satellites.</span>
 
 - <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware architecture for multimodal LLM inference on satellites or smartphones</span>
 <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - The hardware architecture of existing mobile devices often lags behind the rapid development of algorithms, making it difficult to support efficient inference for multimodal LLMs. We are working on designing, simulating, and implementing new accelerators to enable reliable and high-performance multimodal LLM inference on the satellites and smartphones.
