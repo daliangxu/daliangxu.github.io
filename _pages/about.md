@@ -46,16 +46,22 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">NPU-friendly multimodal LLM algorithms.</span>
   <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> 
-  PieBridge[SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate[WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
+  PieBridge [SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate [WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
   </span>
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in drones or satellites.</span>
 
-- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware for satellites or smartphones</span>
+- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware for intelligent satellites or smartphones.</span>
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Next-generation intelligent satellites featuring high reliability, fault tolerance, and support for multimodal LLM inference.
+  </span>
 
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Accelerators for multimodal LLM.</span>
+  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">On-device accelerators for multimodal LLM.</span>
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Our research focuses on multimodal LLM quantized inference efficiency and minimizing accelerator energy consumption, current, and area.
+  </span>
 
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">High-Reliability SoCs for Satellites.</span>
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Focus on characteristics such as high reliability and fault tolerance.
+  </span>
 
 
 ## On-going projects
@@ -65,9 +71,9 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
   </span>
 
 
-- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">MLLM-NPU</span>
+- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Satellite hardware. </span>
 <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - 
-  a fast and lightweight NPU-optimized multimodal LLM inference engine for mobile devices.
+  A lightweight satellite SoC, focusing on space-grade reliability and enhancing multimodal LLM acceleration capabilities.
   </span>
 
 
