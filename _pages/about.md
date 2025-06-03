@@ -78,9 +78,17 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
 
 
 ## Selected Publications (* = equal contributions)
+* Fast On-device LLM Inference with NPUs [ASPLOS'2025]
+
+  __Daliang Xu__, Hao Zhang, Liming Yang, Ruiqi Liu, Gang Huang, Mengwei Xu, Xuanzhe Li
+
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
 
   __Daliang Xu\*__, Mengwei Xu*, Chiheng Lou, Li Zhang, Gang Huang, Xin Jin, Xuanzhe Liu
+
+* EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding[TMC'2024]
+
+  __Daliang Xu__, Wangsong Yin, Hao Zhang, Xin Jin, Ying Zhang, Shiyun Wei, Mengwei Xu,Xuanzhe Liu
 
 * Niagara: Scheduling DNN Inference Services onHeterogeneous Edge Processors[ICSOC'2023] (__Distinguished Paper Award__)
 
