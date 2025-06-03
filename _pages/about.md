@@ -58,6 +58,19 @@ My research focuses on empowering resource-constrained edge devices (e.g., satel
   * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">High-Reliability SoCs for Satellites.</span>
 
 
+## On-going projects
+- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">[MLLM-NPU](https://github.com/UbiquitousLearning/mllm)</span>
+<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - 
+  a fast and lightweight NPU-optimized multimodal LLM inference engine for mobile devices.
+  </span>
+
+
+- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">MLLM-NPU</span>
+<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - 
+  a fast and lightweight NPU-optimized multimodal LLM inference engine for mobile devices.
+  </span>
+
+
 ## Selected Publications (* = equal contributions)
 * SoCFlow: Efficient and Scalable DNN Training on SoC-Clustered Edge Servers[ASPLOS'2024]
 
