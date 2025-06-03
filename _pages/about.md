@@ -27,18 +27,27 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 
 ## Research
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
-My research focuses on enabling intelligent capabilities on resource-constrained edge devices (e.g., smartphones, drones, satellites) through hardware-software co-design.  In particular, I am interested in how to leverage heterogeneous computing resources (e.g., NPUs) on devices and how to develop new hardware to accelerate the inference of multimodal LLMs at the devices.
+My research focuses on empowering resource-constrained edge devices (e.g., satellites, drones, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
 </span>
 
-- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Efficient heterogeneous processor software stack for on-device multimodal LLMs</span>
-<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing a new algorithm-system software stack optimized for heterogeneous computing resources to maximize their utilization.
-</span>
+- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Efficient on-device multimodal LLMs</span>
+<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Our research primarily optimizes on-device multimodal LLM inference from the perspective of heterogeneous hardware.
+  </span>
 
-  * Algorithm: PieBridge[SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate[WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
-  * System: Mandheling[MobiCom22](https://dl.acm.org/doi/10.1145/3495243.3560545), Niagara[ICSOC23 distinguished award](https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6), SoCFlow[ASPLOS24](https://dl.acm.org/doi/10.1145/3617232.3624847), EdgeLLM[TMC24](https://ieeexplore.ieee.org/abstract/document/10812936), LLM.NPU()[ASPLOS25](https://dl.acm.org/doi/10.1145/3669940.3707239)
+  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Heterogeneous computing systems for on-device multimodal LLMs.</span>
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing a new algorithm-system software stack optimized for heterogeneous computing resources to maximize their utilization. 
+
+  Current research area includes NPU-optimized on-device multimodal LLM engine, NPU compiler, and etc.
+
+  Papers: Mandheling[MobiCom22](https://dl.acm.org/doi/10.1145/3495243.3560545), Niagara[ICSOC23 distinguished award](https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6), SoCFlow[ASPLOS24](https://dl.acm.org/doi/10.1145/3617232.3624847), EdgeLLM[TMC24](https://ieeexplore.ieee.org/abstract/document/10812936), LLM.NPU()[ASPLOS25](https://dl.acm.org/doi/10.1145/3669940.3707239)
+  </span>
+  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">NPU-friendly multimodal LLM algorithms</span>
+  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> 
+  PieBridge[SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate[WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
+  </span>
 
 - <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware architecture for multimodal LLM inference on satellites or smartphones</span>
-<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - The hardware architecture of existing mobile devices often lags behind the rapid development of algorithms, making it difficult to support efficient inference for multimodal LLMs. We are working on designing, simulating, and implementing new accelerators to enable reliable and high-performance multimodal LLM inference at the edge.
+<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - The hardware architecture of existing mobile devices often lags behind the rapid development of algorithms, making it difficult to support efficient inference for multimodal LLMs. We are working on designing, simulating, and implementing new accelerators to enable reliable and high-performance multimodal LLM inference on the satellites and smartphones.
 </span>
 
 
