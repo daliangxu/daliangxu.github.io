@@ -26,42 +26,79 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
 ## Research
-<span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
-My research focuses on empowering resource-constrained edge devices (e.g., satellites, UAVs, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
-</span>
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
+  My research focuses on empowering resource-constrained edge devices (e.g., satellites, UAVs, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
+</div>
+<br>
+<ul>
+  <li>
+    <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+      Efficient on-device multimodal LLMs
+    </span>
+    <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+      - Our research primarily optimizes on-device multimodal LLM inference from the perspective of heterogeneous hardware.
+    </div>
+    <ul>
+      <li>
+        <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          Heterogeneous computing systems (e.g., NPU) for on-device multimodal LLMs.
+        </span>
+        <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing new system software stack optimized for heterogeneous computing resources to maximize their utilization.
+          <br><br>
+          Our current research topics cover NPU-optimized on-device multimodal LLM engines, NPU compiler design, and other related areas.
+          <br><br>
+          Papers:
+          Mandheling [<a href="https://dl.acm.org/doi/10.1145/3495243.3560545" target="_blank">MobiCom22</a>],
+          Niagara [<a href="https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6" target="_blank">ICSOC23 Distinguished Award</a>],
+          SoCFlow [<a href="https://dl.acm.org/doi/10.1145/3617232.3624847" target="_blank">ASPLOS24</a>],
+          EdgeLLM [<a href="https://ieeexplore.ieee.org/abstract/document/10812936" target="_blank">TMC24</a>],
+          LLM.NPU() [<a href="https://dl.acm.org/doi/10.1145/3669940.3707239" target="_blank">ASPLOS25</a>]
+        </div>
+      </li>
+      <li>
+        <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          NPU-friendly multimodal LLM algorithms.
+        </span>
+        <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          PieBridge [<a href="https://dl.acm.org/doi/10.1145/3666025.3699327" target="_blank">SenSys24</a>], Q-FedUpdate [<a href="https://dl.acm.org/doi/10.1145/3589334.3645341" target="_blank">WWW24</a>]
+        </div>
+      </li>
+      <li>
+        <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in UAVs or satellites.
+        </span>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+      New hardware for intelligent satellites or smartphones.
+    </span>
+    <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+      - Next-generation intelligent satellites featuring high reliability, fault tolerance, and support for multimodal LLM inference.
+    </div>
+    <ul>
+      <li>
+        <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          On-device accelerators for multimodal LLM.
+        </span>
+        <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          - Our research focuses on multimodal LLM quantized inference efficiency and minimizing accelerator energy consumption, current, and area.
+        </div>
+      </li>
+      <li>
+        <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          High-Reliability SoCs for Satellites.
+        </span>
+        <div style="font-size: 12pt; color: black; font-family: 'Times New Roman', Times, serif;">
+          - Focus on characteristics such as high reliability and fault tolerance.
+        </div>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Efficient on-device multimodal LLMs</span>
-<span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Our research primarily optimizes on-device multimodal LLM inference from the perspective of heterogeneous hardware.
-  </span>
-
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Heterogeneous computing systems (e.g., NPU) for on-device multimodal LLMs.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Mobile devices typically contain a variety of heterogeneous computing resources (such as CPU, GPU, NPU, etc.). However, current on-device multimodal LLM systems fail to fully utilize them. To address this, we are designing new system software stack optimized for heterogeneous computing resources to maximize their utilization. 
-  <br>
-  <br>
-  Our current research topics cover NPU-optimized on-device multimodal LLM engines, NPU compiler design, and other related areas.
-  <br>
-  <br>
-  Papers: Mandheling [[MobiCom22](https://dl.acm.org/doi/10.1145/3495243.3560545)], Niagara [[ICSOC23 Distinguished Award](https://dl.acm.org/doi/abs/10.1007/978-3-031-48421-6_6)], SoCFlow [[ASPLOS24](https://dl.acm.org/doi/10.1145/3617232.3624847)], EdgeLLM [[TMC24](https://ieeexplore.ieee.org/abstract/document/10812936)], LLM.NPU() [[ASPLOS25](https://dl.acm.org/doi/10.1145/3669940.3707239)]
-  </span>
-
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">NPU-friendly multimodal LLM algorithms.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> 
-  PieBridge [SenSys24](https://dl.acm.org/doi/10.1145/3666025.3699327), Q-FedUpdate [WWW24](https://dl.acm.org/doi/10.1145/3589334.3645341)
-  </span>
-
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">Intelligent autonomous systems: multimodal perception, autonomous control, and self-evolution in UAVs or satellites.</span>
-
-- <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">New hardware for intelligent satellites or smartphones.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Next-generation intelligent satellites featuring high reliability, fault tolerance, and support for multimodal LLM inference.
-  </span>
-
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">On-device accelerators for multimodal LLM.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Our research focuses on multimodal LLM quantized inference efficiency and minimizing accelerator energy consumption, current, and area.
-  </span>
-
-  * <span style="font-family: 'Times New Roman', Times, serif; color: black; font-weight: bold; font-size: 14pt;">High-Reliability SoCs for Satellites.</span>
-  <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 12pt;"> - Focus on characteristics such as high reliability and fault tolerance.
-  </span>
 
 
 ## On-going projects
