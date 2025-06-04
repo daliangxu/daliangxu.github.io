@@ -16,7 +16,7 @@ My research interests are in mobile computing and system software.
 <hr style="border: none; border-top: 1px solid #ccc; margin: 16px 0;" />
 
 <span style="font-family: 'Times New Roman', Times, serif; color: red; font-weight: bold; font-size: 14pt;">
-I always look for highly self-motivated undergraduates and graduates. If you are interested in my research, please feel free to send your CV to contact me at xxx@163.com.
+I always look for highly self-motivated undergraduates and graduates. If you are interested in my research, please feel free to send your CV to contact me at bupt_on_device_lab@163.com. 
 </span>
 
 <span style="font-family: 'Times New Roman', Times, serif; color: black; font-size: 14pt;">
