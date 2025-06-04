@@ -29,7 +29,6 @@ Notice: Please refer to the [tips](https://daliangxu.github.io/recruiting/) befo
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
   My research focuses on empowering resource-constrained edge devices (e.g., satellites, UAVs, and smartphones) with multimodal large language model (LLM) capabilities through hardware-software co-design.
 </div>
-<br>
 <ul>
   <li>
     <span style="font-weight: bold; font-size: 14pt; color: black; font-family: 'Times New Roman', Times, serif;">
