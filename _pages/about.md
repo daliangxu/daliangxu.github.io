@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Times New Roman', Times, serif; font-size: 14pt;">
-I am an incoming Assistant Professor (Associate Researcher) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), and I will soon work with Prof. Shangguang Wang and [Prof. Mengwei Xu](https://xumengwei.github.io/).
+I am an Assistant Professor (Associate Researcher) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), and I will soon work with Prof. Shangguang Wang and [Prof. Mengwei Xu](https://xumengwei.github.io/).
 I received my Ph.D. from Peking University (PKU) in June 2025, where I was fortunate to be advised by Prof. Gang Huang, [Prof. Xuanzhe Liu](http://www.liuxuanzhe.com/), and [Prof. Mengwei Xu](https://xumengwei.github.io/).
 My research interests are in mobile computing and system software.
 </span>
